@@ -1,0 +1,92 @@
+
+	#btn{
+		background-color: white;
+		font-size: 1in;
+		font-family: Helvetica;
+		font-weight: bold;
+		width: 1.5in;
+		height: 1.5in;
+		margin: 5px;
+		background-image: url("image.jpg");
+		background-size: 140px 150px;
+		display:inline;
+		margin: 1px;
+		
+	}
+
+	body
+	{
+    background-image: url("Wooden.jpg");
+	background-size: 1920px 1200px;
+	background-repeat: no-repeat;
+	}
+	
+	h1
+	{
+    font-family: Helvetica;
+	color:white;
+	font-size:70;
+	}
+	
+	.abc
+	{
+	width:50%;
+	float:left;
+	margin-left: 200px ;
+	display: inline ;
+	}
+	
+	.xyz
+	{
+	font-family:Helvetica;
+	color:white;
+	font-size:40;
+	float:top;
+	width:50%;
+	margin-left:700px;
+	}
+	
+	#ab
+	{
+	font-family:Helvetica;
+	color:white;
+	font-size:40;
+	float:top;
+	//float:right;
+	width:50%;
+	//align:center;
+	margin-left:700px;
+	}
+
+	
+	#x
+	{
+	font-size: 20px;
+	border-radius: 8px;
+	border: 2px solid #4D3E65;
+	align:center;
+	font-family:Helvetica;
+	font-weight:bold;
+	background-color:#4D3E65;
+	color:white;
+	}
+	
+	#xy
+	{
+	font-size: 20px;
+	border-radius: 8px;
+	border: 2px solid #4D3E65;
+	margin-left:600px;
+	margin-top:70px;
+	font-family:Helvetica;
+	font-weight:bold;
+	background-color:#4D3E65;
+	color:white;
+
+	}
+	
+	#demo
+	{
+     color:white;
+	 font-size: 37px;
+	 }
